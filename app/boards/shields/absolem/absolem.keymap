@@ -24,6 +24,5 @@
                 &mt LCTL TAB &kp SPACE &kp RET      	&kp M &kp BKSP   &mt LGUI ESC
             >;
         };
-    }
     };
-};
+    };
