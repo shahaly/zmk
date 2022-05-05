@@ -1,8 +1,8 @@
 file_format: "1"
-id: samoklava
-name: Samoklava
+id: corne
+name: Corne
 type: shield
-url: https://github.com/soundmonster/samoklava/
+url: https://github.com/foostan/crkbd/
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
@@ -10,6 +10,5 @@ features:
   - display
   - underglow
 siblings:
-  - samoklava_left
-  - samoklava_right
-
+  - corne_left
+  - corne_right

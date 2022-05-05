@@ -1,8 +1,0 @@
-# Copyright (c) 2020 Pete Johanson
-# SPDX-License-Identifier: MIT
-
-config SAMOKLAVA_SAMOKLAVA_LEFT
-	def_bool $(shields_list_contains,samoklava_left)
-
-config SHIELD_SAMOKLAVA_RIGHT
-	def_bool $(shields_list_contains,samoklava_right)
